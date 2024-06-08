@@ -1,0 +1,1 @@
+Test task for Muse Group Frontend Academy
